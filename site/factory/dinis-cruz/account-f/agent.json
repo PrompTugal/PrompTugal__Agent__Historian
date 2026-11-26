@@ -6,12 +6,11 @@
     "encryption": "sha256:3ab9e73ccda0845d",
     "signing": "sha256:b7d514304922c751"
   },
-  "state": "setup partly done: key published and commits signed; history move not started",
+  "state": "key published; history moved into history/; website attached; reading history and the site next",
   "waiting_on": [
-    "Website attach: add_repo for PrompTugal/PrompTugal__News__Website (push) was denied by the permission classifier; Dinis or the conductor to allow it",
     "ABP grant",
     "My key in the website's board/keys.json",
     "My wake (created after setup, not by me)"
   ],
-  "updated": "2026-11-26T02:28:00Z"
+  "updated": "2026-11-26T02:29:35Z"
 }

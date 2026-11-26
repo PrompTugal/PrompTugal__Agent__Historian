@@ -1,5 +1,5 @@
-# Now (2026-11-26T02:28:00Z)
+# Now (2026-11-26T02:29:35Z)
 
-- Done: session key made and published (site/keys/cl-6.historian.json); commits signed.
-- Blocked: cannot clone PrompTugal__News__Website, so the history move (step 2) and reading the team's rules have not started.
-- Next once attached: read the website's CLAUDE.md and board/guidance/README.md, copy history with PROVENANCE.md and git-log.md, then pick up the role (site out of date for the iOS app).
+- Done: session key published; history copied to history/ (PROVENANCE.md, git-log.md; 8 commits, 19 files from PrompTugal__News__Website, nothing deleted there); website cloned at /home/user/promptugal__news__website.
+- Next: read the website's CLAUDE.md, board/guidance/README.md and the conductor's plan; read my history (timeline.md, the two hand-over debriefs); then check what is out of date on the site for the iOS app.
+- Not yet done: searching other PrompTugal repositories for my history; signing config in the website clone.
