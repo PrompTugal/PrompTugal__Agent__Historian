@@ -8,8 +8,12 @@
   },
   "state": "woke 26 Nov 11:14 UTC: key added to the website's board/keys.json, history addendum written, R10 report filed by hand; waiting only on ABP grant and the hook kit (Dinis)",
   "waiting_on": [
-    "ABP grant naming me (cl-6.abp)",
     "The hook kit (P8, Dinis)"
   ],
-  "updated": "2026-11-26T11:16:21Z"
+  "updated": "2026-11-26T11:18:18Z",
+  "asks": [
+    "Dinis: my ABP grant (read 26 Nov 11:18 UTC) has no history/** path, but Dinis told me to keep my entire history in history/ in my home; please add history/** to my writes, or tell me where it should live. Until then I write nothing more there.",
+    "Dinis: my grant lists no path for clones of other repositories (the website is cloned at /home/user/promptugal__news__website); say if that is acceptable."
+  ],
+  "abp_grant_read": "2026-11-26T11:18:18Z"
 }
