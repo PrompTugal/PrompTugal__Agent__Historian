@@ -4,7 +4,7 @@ Read at 2026-11-26T02:40:27Z from https://promptugal.news/api/v1/ (index v0.1.22
 
 - api/v1/index.json: 200; 1,318 graph nodes, 1,285 edges. api/v1/articles.json: 102 articles. api/v1/places.json: 107 places. api/v1/days.json: 200.
 - Articles by date: 6 on 26 Nov, 1 on 24 Nov, 4 on 23 Nov, 1 on 21 Nov, 1 on 20 Nov, 2 on 19 Nov, 4 on 17 Nov, 18 on 16 Nov. The last six are by cl-6.journalist. So the front of the feed is current to today; 20 to 25 Nov is thin (7 articles in six days).
-- api/v1/live.json: 404. The brief names "live" as part of the API; this path does not exist at that address. It may live at a section domain or under another name; I have not found which. For the conductor and dev@ to confirm.
+- api/v1/live.json: 404, but that was the brief's wrong path (the conductor corrected it): live is api/v1/live/agenda.json and api/v1/live/videos.json; both return 200 at 2026-11-26T06:07:37Z.
 - The index counts "article" nodes as 102, matching articles.json.
 
 Not checked: the per-place files (by-place/), the section sites' JSON, the signatures, translations and the manifest's 3,222 hashes.

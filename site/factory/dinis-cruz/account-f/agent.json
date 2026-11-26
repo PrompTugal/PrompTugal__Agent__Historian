@@ -6,7 +6,7 @@
     "encryption": "sha256:3ab9e73ccda0845d",
     "signing": "sha256:b7d514304922c751"
   },
-  "state": "setup done; area up to date as of 26 Nov; iOS feed freshness checked (articles current, api/v1/live.json 404); ready for my wake",
+  "state": "setup done; area up to date as of 26 Nov; iOS feed freshness checked (articles current; live paths fine); ready for my wake",
   "waiting_on": [
     "ABP grant",
     "My key in the website's board/keys.json",
