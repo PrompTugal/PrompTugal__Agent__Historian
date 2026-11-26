@@ -6,11 +6,11 @@
     "encryption": "sha256:3ab9e73ccda0845d",
     "signing": "sha256:b7d514304922c751"
   },
-  "state": "key published; history moved into history/; website attached; reading history and the site next",
+  "state": "setup done; history read; ready for my wake. Open from my last session: the timeline stops at 6 Nov 03:13 UTC; the history notes (one per turning point) not written; site out of date for the iOS app (not yet assessed)",
   "waiting_on": [
     "ABP grant",
     "My key in the website's board/keys.json",
     "My wake (created after setup, not by me)"
   ],
-  "updated": "2026-11-26T02:29:35Z"
+  "updated": "2026-11-26T02:29:49Z"
 }
