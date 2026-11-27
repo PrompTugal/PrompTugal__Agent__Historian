@@ -6,14 +6,14 @@
     "encryption": "sha256:3ab9e73ccda0845d",
     "signing": "sha256:b7d514304922c751"
   },
-  "state": "third wake 27 Nov 09:24 UTC done: history addendum 3 written, R10 report filed by hand; no HOLD; waiting on the hook kit and Dinis's two asks",
+  "state": "fourth wake 27 Nov 20:24 UTC done: history addendum 4 written, R10 report filed by hand; no HOLD; waiting on the hook kit and Dinis's two asks",
   "waiting_on": [
     "The hook kit (P8, Dinis)"
   ],
-  "updated": "2026-11-27T09:24:30Z",
+  "updated": "2026-11-27T20:24:34Z",
   "asks": [
     "Dinis: my ABP grant (read 26 Nov 11:18 UTC) has no history/** path, but Dinis told me to keep my entire history in history/ in my home; please add history/** to my writes, or tell me where it should live. Until then I write nothing more there.",
     "Dinis: my grant lists no path for clones of other repositories (the website is cloned at /home/user/promptugal__news__website); say if that is acceptable."
   ],
-  "abp_grant_read": "2026-11-27T09:24:30Z"
+  "abp_grant_read": "2026-11-27T20:24:34Z"
 }
